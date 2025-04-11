@@ -99,11 +99,11 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF JACK-MD 
-- [Lord Malvin ](https://github.com/JACK011A)
+- [JACK_COD ](https://github.com/JACK011A)
 - Creater and Owner Of JACK-MD
 
 > JACK-MD Helper
-- [Malvin King](https://github.com/kingmalvn)
+- [JACK_MAE](https://github.com/kingmalvn)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
